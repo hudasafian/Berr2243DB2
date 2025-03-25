@@ -1,0 +1,23 @@
+{
+  "name": "dbweek1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000e\u0000r\u0000r\u00002\u00002\u00004\u00003\u0000D\u0000B\u0000\r\u0000 \u0000#\u0000 \u0000B\u0000e\u0000r\u0000r\u00002\u00002\u00004\u00003\u0000D\u0000B\u0000\r\u0000 \u0000#\u0000 \u0000B\u0000e\u0000r\u0000r\u00002\u00002\u00004\u00003\u0000D\u0000B\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudasafian/Berr2243DB2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudasafian/Berr2243DB2/issues"
+  },
+  "homepage": "https://github.com/hudasafian/Berr2243DB2#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
